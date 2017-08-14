@@ -1,0 +1,14 @@
+{
+  "name": "nodeunrar",
+  "version": "1.0.0",
+  "description": "Unrar recursive for dir",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jero Soler",
+  "license": "ISC",
+  "dependencies": {
+    "node-watch": "^0.5.5"
+  }
+}
