@@ -1,7 +1,7 @@
 # UnrarRecursive
 
 Unrar recursivo de directorio.
-Descomprime archivos con contraseña de NEWPCT
+Descomprime archivos con contraseña de NEWPCT.
 
 ## Instalación:
 ```bash
