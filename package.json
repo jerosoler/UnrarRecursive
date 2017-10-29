@@ -9,6 +9,9 @@
   "author": "Jero Soler",
   "license": "ISC",
   "dependencies": {
-    "node-watch": "^0.5.5"
+    "cheerio": "^1.0.0-rc.2",
+    "get-urls-to-array": "^1.0.0",
+    "node-watch": "^0.5.5",
+    "request": "^2.83.0"
   }
 }
